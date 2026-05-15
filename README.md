@@ -3,20 +3,23 @@
 
 **"Diana doesn’t need another app. She needs a desk system her team will actually use."**
 
-The Austin Deal Desk is a folder-native AI Operating System. No new logins. No CRM bloat. No "vibe coding." Just a specialized desk architecture designed to help protect the team from avoidable compliance and deadline mistakes while you're in the field.
+The Austin Deal Desk is a folder-native AI operating system. No new logins. No CRM bloat. No "vibe coding." Just a specialized desk architecture designed to help protect the team from avoidable compliance and deadline mistakes while they are in the field.
 
 ---
 
-## THE CORE PROMISE
-1. **Onboard in 24 Hours:** A new agent can learn the entire system by reading one file: `AGENT_ONBOARDING_DAY_1.md`.
-2. **Zero-Guessing Compliance:** The "Blue Slip" Hard Stop ensures no showing is confirmed until Buyer-Representation is cleared.
-3. **The Desk Trail:** A permanent, audit-ready record of every AI-assisted decision, property risk, and deadline calculation.
+## The Core Promise
+
+1. **Onboard in 24 hours:** A new agent can learn the system by reading one file: `AGENT_ONBOARDING_DAY_1.md`.
+2. **Zero-guessing compliance:** The BLUE Slip Hard Stop prevents a showing workflow from advancing until buyer-representation status is verified.
+3. **The Desk Trail:** A permanent, reviewable record of every AI-assisted decision, property risk, handoff, and draft deadline calculation.
 
 ---
 
-## THE FLOW (The Manila Envelope Doctrine)
-We don't do "tasks." We move **Envelopes**. 
-Every case travels through 5 specialized stations to ensure context is never lost.
+## The Flow: The Manila Envelope Doctrine
+
+We do not move random tasks.
+We move **Manila Envelopes**.
+Every case travels through five specialized desk stations so context is not lost between intake, compliance, property research, communication, and contract tracking.
 
 ```text
 [ INTAKE ] -> [ COMPLIANCE ] -> [ RESEARCH ] -> [ DRAFTING ] -> [ TRACKING ]
